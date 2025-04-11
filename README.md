@@ -1,3 +1,40 @@
+#Pengembangan Sistem Informasi Kepegawaian di PT. Jordan Citra Niaga Kota Semarang dengan Menggunakan Framework Laravel 
+
+#fitur
+user 
+- kelola data pribadi
+- pengajuan presensi
+- pengajuan cuti
+
+admin
+- kelola data karyawan
+- kelola presensi
+- kelola cuti
+
+## tampilan
+user 
+![WhatsApp Image 2025-04-09 at 19 46 14_c82d0ea9](https://github.com/user-attachments/assets/9e648344-1840-4e45-8d14-1259dae5bd19)
+![WhatsApp Image 2025-04-11 at 00 15 43_63c3b690](https://github.com/user-attachments/assets/1fb65123-1523-4f17-b641-8c8115b2b542)
+![WhatsApp Image 2025-04-11 at 00 16 34_694518c7](https://github.com/user-attachments/assets/2d393b7d-74b8-44b7-a280-901571092573)
+![WhatsApp Image 2025-04-11 at 00 16 43_06067272](https://github.com/user-attachments/assets/ef90dbe4-ca50-4358-866f-f01665d82858)
+
+
+
+
+admin
+![WhatsApp Image 2025-04-09 at 19 44 58_795b81bc](https://github.com/user-attachments/assets/e86303ac-40f8-4f22-a21e-188dfcf1dc6f)
+![WhatsApp Image 2025-04-09 at 19 45 13_0811e876](https://github.com/user-attachments/assets/dd267dfe-693c-4eec-a645-936d978138bb)
+![WhatsApp Image 2025-04-11 at 00 16 27_c20fe054](https://github.com/user-attachments/assets/1c464938-d3a9-4f97-bcef-b2cec6b1ce26)
+![WhatsApp Image 2025-04-11 at 00 16 12_97be6869](https://github.com/user-attachments/assets/53473c95-dc77-40ff-b689-a0d8841075d3)
+![WhatsApp Image 2025-04-11 at 00 15 32_ffc7ee50](https://github.com/user-attachments/assets/277d87ca-718b-41ce-ac1a-fe43a85ba651)
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
