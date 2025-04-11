@@ -29,9 +29,77 @@ admin
 ![WhatsApp Image 2025-04-11 at 00 15 32_ffc7ee50](https://github.com/user-attachments/assets/277d87ca-718b-41ce-ac1a-fe43a85ba651)
 
 
+## how to install 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
+## Installation and Setup
 
+### Prerequisites
+- PHP >= 7.3
+- Composer
+- Laravel >= 10.0
+- Node.js & NPM
+
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/shintothemars/worksync.git
+cd worksync
+```
+
+### Step 2: Install dependencies
+```bash
+composer install
+npm install
+```
+
+### Step 3: Configure environment
+Copy the `.env.example` file to `.env` and update the necessary environment variables.
+```bash
+cp .env.example .env
+```
+
+### Step 4: Generate application key
+```bash
+php artisan key:generate
+```
+
+### Step 5: Set up database connections
+```bash
+DB_DATABASE=worksync
+DB_USERNAME=root
+DB_PASSWORD=
+
+```
+
+### Step 6: migration and seeder
+```bash
+php artisan migrate --seed
+php artisan migrate:fresh --seed
+```
+
+### Step 7: Create storage link
+
+```bash
+php artisan storage:link
+```
+
+### Step 8: Serve the application
+```bash
+php artisan serve
+```
+
+Visit `http://localhost:8000` in your browser to see the application running.
+
+## Usage
+- To access the Filament admin panel, navigate to `/admin` in your browser.
+- Use the credentials you set up during the Filament installation to log in.
+
+## Contributing
+Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License.
 
 
 
