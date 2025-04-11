@@ -1,6 +1,6 @@
-#Pengembangan Sistem Informasi Kepegawaian di PT. Jordan Citra Niaga Kota Semarang dengan Menggunakan Framework Laravel 
+# Pengembangan Sistem Informasi Kepegawaian di PT. Jordan Citra Niaga Kota Semarang dengan Menggunakan Framework Laravel 
 
-#fitur
+## fitur
 user 
 - kelola data pribadi
 - pengajuan presensi
